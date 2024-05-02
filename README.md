@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hi there! I'm Gerson, a passionate software engineer with a focus on NetSuite development and full-stack technologies.
 
-<!--
-**GersonSanchezGeek/GersonSanchezGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Expertise:
 
-Here are some ideas to get you started:
+NetSuite Development: Proficient in Suitescript 2.0/2.1 and SuiteCloud Development Framework (SDF) for customizing and extending NetSuite functionalities.
+Backend Development: Experienced in Node.js and Express for building robust server-side applications and APIs.
+Frontend Development: Skilled in React.js for creating interactive and responsive user interfaces.
+💼 Technical Skills:
+JavaScript, SuiteScript, HTML, CSS, Node.js, React.js, MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 About Me:
+I thrive on solving complex problems and delivering scalable solutions. My journey in software engineering has been driven by a blend of creativity and technical acumen, always aiming to optimize user experiences and operational efficiencies.
+
+⚡ Fun Fact:
+When not coding, you'll find me exploring new hiking trails or experimenting with new recipes in the kitchen!
